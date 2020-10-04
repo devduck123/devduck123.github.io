@@ -1,2 +1,2 @@
 # devduck123.github.io
-hello world
+this is a website for me to practice and play
