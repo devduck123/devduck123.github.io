@@ -1,2 +1,4 @@
 # devduck123.github.io
-Blog Website for a journal of notes
+Blog for a journal of notes
+
+View the website: https://devduck123.github.io/
