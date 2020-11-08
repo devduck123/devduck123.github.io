@@ -1,2 +1,2 @@
 # devduck123.github.io
-this is a website for me to practice and play
+Blog Website for a journal of notes
