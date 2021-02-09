@@ -1,4 +1,4 @@
 # devduck123.github.io
-Blog for a journal of notes
+Test website ✔
 
-View the website: https://devduck123.github.io/
+View the website: [here](https://devduck123.github.io/)
