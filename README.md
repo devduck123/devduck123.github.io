@@ -1,7 +1,5 @@
 # devduck123.github.io
 
-Playground ✔
-
-
+First Website
 
 View the website: [here](https://devduck123.github.io/)
